@@ -1,0 +1,208 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/skyBiggy.jpg");
+  background-position: 50% 50%;
+  background-size: auto 160%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 911px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: PindBold;
+  margin: 330px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Pindtext;
+  width: 826px;
+  font-size: 1.5rem;
+  margin: 20px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 751px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 575px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 431px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 271px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}.u-section-2 {
+  min-height: 609px;
+}
+
+.u-section-2 .u-image-1 {
+  height: 649px;
+  margin-top: -87px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-1 {
+  margin: -561px calc(((100% - 1140px) / 2)) 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 {
+    min-height: 790px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 39px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -504px;
+    margin-left: calc(((100% - 940px) / 2));
+    margin-right: calc(((100% - 940px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 {
+    min-height: 681px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 135px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -491px;
+    margin-left: calc(((100% - 720px) / 2));
+    margin-right: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 {
+    min-height: 631px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 303px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -570px;
+    margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 {
+    min-height: 952px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 723px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -891px;
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 603px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: Pind;
+  font-size: 2.25rem;
+  margin: 20px auto 0 198px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 97px;
+  height: 86px;
+  object-position: 50% 0%;
+  margin: -157px auto 0 160px;
+}
+
+.u-section-3 .u-text-2 {
+  font-family: PindBold;
+  font-size: 4.5rem;
+  width: 826px;
+  margin: 124px auto 0;
+}
+
+.u-section-3 .u-custom-html-1 {
+  min-height: 28px;
+  width: 71px;
+  margin: 196px auto 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-custom-html-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 149px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 94px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'PindBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/PindBold.ttf);
+}@font-face {
+  font-family: 'Pindtext';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Pindtext.ttf);
+}@font-face {
+  font-family: 'Pind';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Pind.ttf);
+}
