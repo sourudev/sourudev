@@ -141,16 +141,16 @@
 <a href="https://discord.link/paintdes" target="_blank">
   <img align="center" alt="Discord" width="24px" src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/_DHANOLA" target="_blank">
+<a href="https://twitter.com/sourutw" target="_blank">
   <img align="center" alt="Twitter" width="26px" src="https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png" />
 </a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCXt4z6usWWNDbt6uctGudvw" target="_blank">
+<a href="https://www.youtube.com/channel/UCi08sPX83Dx0AxADJOXFzxQ" target="_blank">
   <img align="center" alt="Youtube" width="24px" src="https://seeklogo.com/images/Y/youtube-square-logo-3F9D037665-seeklogo.com.png" />
 </a> &nbsp;&nbsp;
 <a href="mailto:paintdevcontact@gmail.com" >
   <img align="center" alt="Gmail" width="26px" src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/aita.paintkun/">
+<a href="https://www.facebook.com/souruofficial">
     <img align="center" alt="Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
